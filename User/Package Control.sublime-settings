@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"auto-save",
+		"AutoFileName",
+		"Babel",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"GBK Support",
+		"IMESupport",
+		"JsFormat",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Nodejs",
+		"Package Control"
+	]
+}
